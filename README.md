@@ -182,3 +182,49 @@ Motto:
 </p>
 
 ---
+---
+
+# 💻 Developer Profile
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👋 About Me
+
+- 🔭 Working on **Java Projects**
+- 🌱 Learning **Full Stack Development**
+- 📚 Solving **DSA Problems**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript**
+- ⚡ Fun Fact: I enjoy building projects and learning new technologies every day.
+
+<br>
+
+---
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌐 Marquee | Responsive text marquee web application | HTML CSS JavaScript |
+| ☕ Java Calculator | Console based calculator | Java |
+| 📚 Student Management System | Student record management | Java + MySQL |
+| 🌦 Weather App | Real-time weather information | HTML CSS JavaScript |
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tusharnimkande872006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/TusharNimkande">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tushar-nimkande-436aa8316/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
