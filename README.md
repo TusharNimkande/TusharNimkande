@@ -84,3 +84,58 @@ Motto:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:4facfe&height=120&section=footer"/>
 </p>
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-In%20Progress-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠️ Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
+
+</p>
+
+---
+
+# 💡 Interests
+
+```text
+💻 Software Development
+🌐 Web Development
+🧩 Problem Solving
+📚 Learning New Technologies
+🤝 Open Source
+```
+
+---
+
+# 🚀 2026 Goals
+
+- ✅ Strengthen Java Programming
+- 🚀 Master Data Structures & Algorithms
+- 🌐 Become a Full Stack Developer
+- ⭐ Build High-Quality Projects
+- 🤝 Contribute to Open Source
+
+---
